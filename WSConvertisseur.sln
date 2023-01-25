@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSConvertisseur", "WSConvertisseur\WSConvertisseur.csproj", "{73F8FE19-82FB-42C0-A3CF-4CFA6FBFC7A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F8FE19-82FB-42C0-A3CF-4CFA6FBFC7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F8FE19-82FB-42C0-A3CF-4CFA6FBFC7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F8FE19-82FB-42C0-A3CF-4CFA6FBFC7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F8FE19-82FB-42C0-A3CF-4CFA6FBFC7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAAE3502-E4B4-4E73-A53B-A534793AB8B8}
+	EndGlobalSection
+EndGlobal
